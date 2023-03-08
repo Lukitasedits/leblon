@@ -1,0 +1,30 @@
+<div class="carta">
+  <div class="upper">
+    <div class="pantalla-negra">
+      <a  class="boton informacion" target="_blank" *ngIf="pelicula.id != 'null'" [href]="['https://www.imdb.com/title/' + pelicula.id]">
+        <div class="logo imdb-logo" ></div>
+        <span>Trailer</span>
+      </a>
+      <a  class="boton informacion" target="_blank" *ngIf="pelicula.id == 'null'" [href]="['https://www.imdb.com/find/?q=' + pelicula.nombre + '&ref_=nv_sr_sm']">
+        <div class="logo imdb-logo" ></div>
+        <span>Trailer</span>
+      </a>
+      <a class="boton consultar" target="_blank" [href]="['https://wa.me/+5491151765685?text=Hola%20me%20gustaría%20saber%20sobre%20la%20película%20' + pelicula.nombre]">
+        <div class="logo whatsapp-logo"></div>
+        <span>Consultar</span>
+      </a>
+    </div>
+    <div class="imagen" [ngStyle]="{'background-image': 'url('+ pelicula.imagen + ')'}">
+      <div class="nombre" *ngIf="pelicula.imagen == '/assets/imagenes/NotImagen.jpg'">{{pelicula.nombre}}</div>
+    </div>
+  </div>
+  <div class="barra-inferior">{{pelicula.nombre}}</div>
+</div>
+    <!-- <div class="below">
+      <div class="nombre">{{pelicula.title}}</div>
+      <div class="info">
+        <a class=" boton imdb" target="_blank" [href]="['https://www.imdb.com/title/' + pelicula.id]"> + INFO </a>
+        <a class="boton consultar" target="_blank" [href]="['https://wa.me/+5491151765685?text=Hola%20me%20gustaría%20saber%20sobre%20la%20película%20' + pelicula.title]">CONSULTAR</a>
+      </div>
+    </div> -->
+

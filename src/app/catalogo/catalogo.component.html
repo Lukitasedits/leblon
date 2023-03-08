@@ -1,0 +1,18 @@
+<div class="cover">
+  <div class="buscador-cover">
+    <div class="buscador">
+      <div class="input-group mb-3 dark">
+        <span class="input-group-text">🔎</span>
+        <div class="form-floating">
+          <input type="text" class="form-control" id="floatingInputGroup1" placeholder="Username">
+          <label for="floatingInputGroup1">Buscar</label>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="peliculas"
+  infiniteScroll
+  (scrolled)="onScrollDown()">
+    <app-pelicula [pelicula]="peli" *ngFor="let peli of peliculas" ></app-pelicula>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+<div class="cover">
+
+  <!-- <iframe class="trailer" width="90vw" height="700px" style="display: inline;" src="https://www.imdb.com/video/imdb/vi2959588889/imdb/embed" allowfullscreen></iframe> -->
+   <!-- <source src="https://www.youtube.com/watch?v=QAZmVQcjQl4" type="video/mp4">
+     -->
+    <!-- <app-pelicula [pelicula]="peliculas[0]"></app-pelicula> -->
+    <div class="presentacion-box">
+      <div class="rectangulo-pres">
+        <div class="triangulo-pres" [ngStyle]="{'background-image':'url('+ imagenes[indiceCarrusel] + ')'}"></div>
+        <div class="upper-claqueta"></div>
+        <div class="lower-claqueta">
+          <div class="informacion">
+            <h1>VIDEO CLUB LEBLON</h1>
+            <div class="subrayado"></div>
+            <h2>Tu video club online</h2>
+            <div class="botones">
+              <div class="boton" [routerLink]="['/catalogo']">VER CATALOGO</div>
+              <div class="boton" (click)="scrollToSaberMas()" #saberMasRef>SABER MAS</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="paneles">
+      <div class="leblon panel">
+        <div class="informacion">
+          <h1>¿CÓMO COMPRO UN FILM ONLINE?</h1>
+          <h4>
+            1. Buscá en la sección <span [routerLink]="['/catalogo']">catálogo</span> la película o serie que quieras. <hr>
+            2. Luego de elejirla, tocas el botón “consultar” lo cual generará
+            automáticamente un mensaje por whatsapp hacia nosotros.<hr>
+            3. Una vez que hayamos revisado el mensaje, arreglaremos los
+            detalles de la transferencia.<hr>
+            4. Vos nos pasás tu mail y te haremos llegar el film a través de
+            un link donde podrás descargar muy facilmente el archivo.
+          </h4>
+        </div>
+        <div class="imagen"></div>
+      </div>
+      <div class="vlc panel">
+        <div class="informacion">
+          <h1>¿CÓMO PONGO LOS SUBTÍTULOS EN VLC?</h1>
+          <video src="/assets/videos/subtitulos.mp4" controls></video>
+        </div>
+      </div>
+    </div>
+
+  </div>

@@ -1,0 +1,61 @@
+.cover{
+  width: 100vw;
+  height: 80px;
+  background-color: black;
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+  align-items: center;
+
+  .logo{
+    cursor: pointer;
+    width: auto;
+    height: 100%;
+    font-family: 'bebas neue';
+    color: #b4b4b4;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    padding-left: 20px;
+  }
+
+  .items{
+    height: 50px;
+    width: 300px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+
+    .item{
+      margin: 10px;
+      //background-color: goldenrod;
+      font-family: 'bebas neue';
+      font-size: 25px;
+      color: goldenrod;
+      border-bottom: 3px solid goldenrod;
+      width:130px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .item:hover{
+      width: 150px;
+    }
+
+    .home{
+
+    }
+
+    .catalogo{
+
+    }
+  }
+}

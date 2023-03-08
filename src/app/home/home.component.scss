@@ -1,0 +1,195 @@
+.cover{
+width: 100vw;
+height: auto;
+background-color: rgb(16, 16, 16);
+
+  .presentacion-box{
+    width: 100vw;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 35, 35);
+
+    .rectangulo-pres{
+      width: 60vw;
+      height: 320px;
+      background-color: rgb(9, 9, 9);
+
+      .triangulo-pres{
+        width: 350px;
+        height: 415px;
+        background-color: aliceblue;
+        background-size: cover;
+        top: 200px;
+        position: absolute;
+        clip-path: polygon(0 0, 0% 100%, 100% 50%);
+        transition: all 0.5s;
+      }
+
+      .upper-claqueta{
+        width: 100%;
+        height: 65px;
+        background-color: black;
+        background-size: cover;
+        background-image: url('/assets/imagenes/rayitas.png');
+      }
+
+      .lower-claqueta{
+        width: 100%;
+        height: 275px;
+        display: flex;
+        justify-content: flex-end;
+
+        .informacion{
+          width: 600px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+
+          h1{
+            color: #b4b4b4;
+            font-family: 'bebas neue';
+            font-size: 65px;
+            margin-bottom: 0;
+          }
+
+          .subrayado{
+            width: 380px;
+            height: 7px;
+            background-color: #b4b4b4;
+            margin-top: -15px;
+            margin-bottom: 5px;
+          }
+
+          h2{
+            color: #b4b4b4;;
+            font-family: 'Roboto light';
+          }
+
+          .botones{
+            margin-top: 20px;
+            display: flex;
+            height: auto;
+            width: 350px;
+            justify-content:space-around;
+
+            .boton{
+              cursor: pointer;
+              font-family: 'Bebas neue';
+              font-size: large;
+              background-color: goldenrod;
+              width: 120px;
+              height: 35px;
+              text-align: center;
+              border-radius: 5px;
+              border: solid 2px black;
+              padding-top: 3px;
+              transition: all 0.2s ease-in;
+              box-shadow: 0px 0 10px rgb(0, 0, 0);
+            }
+
+            .boton:hover{
+              //width: 130px;
+              height: 40px;
+              padding-top: 7px;
+            }
+          }
+        }
+      }
+    }
+
+
+    @media only screen and (max-width: 1500px) {
+      .triangulo-pres{
+        display: none;
+      }
+      .rectangulo-pres{
+
+        .lower-claqueta{
+          justify-content: center;
+        }
+      }
+    }
+  }
+
+  .paneles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    .panel{
+      margin: 20px 0;
+      width: 90vw;
+      height: auto;
+      background-color: rgb(23, 23, 23);
+      display: flex;
+
+      .informacion{
+        display: flex;
+        margin-left: 40px;
+        margin-top: 20px;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        height: auto;
+        width: 800px;
+
+        h1{
+          color: snow;
+          font-family: 'bebas neue';
+          font-size: 60px;
+          border-bottom: solid snow 2px;
+          padding: 0px;
+        }
+
+        h4{
+          margin-top: 20px;
+          color: snow;
+          font-family: 'roboto light';
+          line-height: 1.5;
+          font-size: 20px;
+
+          span{
+            cursor: pointer;
+            color: goldenrod;
+          }
+        }
+
+        video{
+          margin: 10px 0;
+          width: 90%;
+        }
+      }
+    }
+
+    .leblon{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      .imagen{
+        background-size: cover;
+        background-position: center center;
+        background-image: url('/assets/imagenes/videoclub.jpg');
+      }
+    }
+
+    .imagen{
+      width: 400px;
+      height: 400px;
+      margin: 25px;
+    }
+
+    .vlc{
+      width: 100vw;
+      align-self: center;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+}

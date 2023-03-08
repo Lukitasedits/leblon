@@ -1,0 +1,302 @@
+[{
+"nombre": "LOS PUENTES DE MADISON"
+},
+{
+"nombre": "JUMANJI"
+},
+{
+"nombre": "LA BODA DE MI MEJOR AMIGO -NO-"
+},
+{
+"nombre": "LANCELOT  -NO-"
+},
+{
+"nombre": "EL PERFECTO ASESINO"
+},
+{
+"nombre": "EL QUINTO ELEMENTO"
+},
+{
+"nombre": "EL FANATICO"
+},
+{
+"nombre": "ENEMIGO �NTIMO"
+},
+{
+"nombre": "EL ESPEJO TIENE DOS CARAS"
+},
+{
+"nombre": "ASALTO AL TREN DEL DINERO"
+},
+{
+"nombre": "GODZILLA"
+},
+{
+"nombre": "MATILDA"
+},
+{
+"nombre": "JOVENES BRUJAS"
+},
+{
+"nombre": "AMADEUS"
+},
+{
+"nombre": "SPACE JAM"
+},
+{
+"nombre": "LOS IMPERDONABLES"
+},
+{
+"nombre": "ASESINOS"
+},
+{
+"nombre": "NICO"
+},
+{
+"nombre": "INFIERNO BAJO TIERRA -NO-"
+},
+{
+"nombre": "EL FUGITIVO"
+},
+{
+"nombre": "LOS FEDERALES"
+},
+{
+"nombre": "BATMAN"
+},
+{
+"nombre": "BATMAN VUELVE"
+},
+{
+"nombre": "BATMAN ETERNAMENTE"
+},
+{
+"nombre": "BATMAN & ROBIN"
+},
+{
+"nombre": "MEJOR...IMPOSIBLE"
+},
+{
+"nombre": "SECRETO DE SANGRE"
+},
+{
+"nombre": "EL COMPLOT"
+},
+{
+"nombre": "ARMA MORTAL"
+},
+{
+"nombre": "ARMA MORTAL 2"
+},
+{
+"nombre": "ARMA MORTAL 3"
+},
+{
+"nombre": "ARMA MORTAL 4"
+},
+{
+"nombre": "UN ANGEL ENAMORADO"
+},
+{
+"nombre": "MOMENTO CRITICO"
+},
+{
+"nombre": "EL COLOR PURPURA"
+},
+{
+"nombre": "LA MASCARA DEL ZORRO"
+},
+{
+"nombre": "VOLANDO A CASA"
+},
+{
+"nombre": "CAZA AL TERRORISTA"
+},
+{
+"nombre": "VAMPIROS"
+},
+{
+"nombre": "RAPIDA Y MORTAL"
+},
+{
+"nombre": "RIESGO TOTAL -NO-"
+},
+{
+"nombre": "BAILA CONMIGO"
+},
+{
+"nombre": "LEYENDA URBANA"
+},
+{
+"nombre": "SE LO QUE HICIERON EL VERANO P"
+},
+{
+"nombre": "TODAVIA SE LO QUE EL VERANO PA"
+},
+{
+"nombre": "LA RED"
+},
+{
+"nombre": "QUEDATE A MI LADO"
+},
+{
+"nombre": "PESCADOR DE ILUSIONES"
+},
+{
+"nombre": "ASESINATO EN LA CASA BLANCA"
+},
+{
+"nombre": "LLUVIA DE FUEGO"
+},
+{
+"nombre": "LA ESPADA MAGICA"
+},
+{
+"nombre": "EPIDEMIA"
+},
+{
+"nombre": "EL ESPECIALISTA"
+},
+{
+"nombre": "COPYCAT"
+},
+{
+"nombre": "POSEIDOS"
+},
+{
+"nombre": "ROCKY"
+},
+{
+"nombre": "EL EXORCISTA"
+},
+{
+"nombre": "UN CRIMEN PERFECTO -NO-"
+},
+{
+"nombre": "HECHIZO DE AMOR"
+},
+{
+"nombre": "THE ROLLING STONES -BRIDGES TO"
+},
+{
+"nombre": "LA PRINCESSE ET LA PUTE 2"
+},
+{
+"nombre": "ALMA MIA"
+},
+{
+"nombre": "TITANIC"
+},
+{
+"nombre": "DANTE'S PEAK"
+},
+{
+"nombre": "DAYLIGHT"
+},
+{
+"nombre": "UN ROMANCE PELIGROSO"
+},
+{
+"nombre": "SHAKESPEARE APASIONADO"
+},
+{
+"nombre": "LA COLONIA"
+},
+{
+"nombre": "EL MEDIADOR"
+},
+{
+"nombre": "ALERTA MAXIMA"
+},
+{
+"nombre": "JUEGOS DE PASION"
+},
+{
+"nombre": "007 - GOLDENEYE"
+},
+{
+"nombre": "LOS ANGELES AL DESNUDO"
+},
+{
+"nombre": "OPERACION DRAGON"
+},
+{
+"nombre": "MEDIANOCHE EN EL JARDIN DEL BI"
+},
+{
+"nombre": "TIENES UN E-MAIL"
+},
+{
+"nombre": "LEGIONARIO"
+},
+{
+"nombre": "CARTAS PARA UN ASESINO"
+},
+{
+"nombre": "RESURRECCI�N -NO-"
+},
+{
+"nombre": "GLORIA"
+},
+{
+"nombre": "THE MATRIX"
+},
+{
+"nombre": "LA MOMIA"
+},
+{
+"nombre": "SOLDADO UNIVERSAL"
+},
+{
+"nombre": "INFIERNO"
+},
+{
+"nombre": "MERCY"
+},
+{
+"nombre": "TIEMPOS VIOLENTOS"
+},
+{
+"nombre": "BIG BUTT EURO BABES"
+},
+{
+"nombre": "BUTTMAN IN BUDAPEST"
+},
+{
+"nombre": "BRITISH EXTREMELY BIG TIT"
+},
+{
+"nombre": "ASTERIX & OBELIX CONTRA EL CES"
+},
+{
+"nombre": "UN PAPA GENIAL"
+},
+{
+"nombre": "EL PISO 13"
+},
+{
+"nombre": "VIVIENDO SIN LIMITES"
+},
+{
+"nombre": "EL PROYECTO BLAIR WITCH"
+},
+{
+"nombre": "LA ROCA"
+},
+{
+"nombre": "ARMAGEDDON"
+},
+{
+"nombre": "LIMBO"
+},
+{
+"nombre": "CITIZEN SHANE"
+},
+{
+"nombre": "L'AMOUR DE LAURE"
+},
+{
+"nombre": "TURBULENCIA 2"
+},
+AMERICAN PIE
+]
